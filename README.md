@@ -1,1 +1,1 @@
-# ask-my-docs-RAG-
+# ask-my-docs (mini RAG)
