@@ -56,7 +56,7 @@ streamlit run rag_chatbot.py
 
 ---
 ## 핵심 기능
-
+![과정 이미지](./data_img/process.jpg)
 - .txt 문서 임베딩 후 벡터 DB 저장
 
 - 사용자 질문 → 의미 기반 검색
