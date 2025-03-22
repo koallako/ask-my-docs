@@ -44,7 +44,7 @@ streamlit run rag_chatbot.py
 ---
 ## 실행 화면
 
-![RAG 챗봇 결과 화면](/Users/koallako/김민정/ask-my-docs/data_img/result01.png)
+![결과 이미지](./data_img/result01.png)
 
 - 문서 업로드 후 질문
 
