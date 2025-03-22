@@ -44,7 +44,8 @@ streamlit run rag_chatbot.py
 ---
 ## 실행 화면
 
-![alt text](<스크린샷 2025-03-21 오후 2.54.39.png>)
+![RAG 챗봇 결과 화면](/Users/koallako/김민정/ask-my-docs/data_img/result01.png)
+
 - 문서 업로드 후 질문
 
 - 문서 기반으로 GPT가 자연어로 답변 생성
